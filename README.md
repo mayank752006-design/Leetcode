@@ -6,6 +6,8 @@ This repository contains my solutions to LeetCode problems.
 - Arrays
 - Strings
 - Algorithms
+- Two Pointers
+- Binary Search
 - Problem Solving
 
 ## Goal
